@@ -1772,8 +1772,8 @@ input, select, textarea {
 
 		.image.featured {
 			display: flex;
-			width: 100%;
-			height: 400px;
+			width: auto;
+			max-height: 400px;
 			margin: 0 0 2em 0;
 			padding: 0 40%;
 			justify-content: center;
